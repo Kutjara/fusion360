@@ -1,6 +1,6 @@
 # fusion360
 
-## Ensemble de scripts pour la création automatique de composants mécaniques dans _Fusion360_* *Fusion 360* *
+## Ensemble de scripts pour la création automatique de composants mécaniques dans _Fusion360_
 
 	About	  A Propos de ...
 
